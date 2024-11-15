@@ -1,3 +1,6 @@
+Projet fini, rendu en 3h
+
+
 # 24 Days of Design Gifts
 
 This project is a countdown calendar for the 24 days leading up to Christmas. Each day reveals a new design gift, such as discounted apps or free icon and wallpaper packs.
